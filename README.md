@@ -3,7 +3,7 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org/tr/kodluyoruz/) Front-End Eğitimmin
 
 
 ## Installation
-Öncelikle projeyi clonelayın.(https://github.com/abdulkadirozyurt/kodluyoruzilkrepo.git)
+Öncelikle projeyi clonelayın.
 
 ```
 git clone https://github.com/abdulkadirozyurt/kodluyoruzilkrepo.git
@@ -24,4 +24,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-![Kodluyoruz](https://www.google.com/search?q=kodluyoruz&sxsrf=ALiCzsbrLA325_zLybBvM7g-QxV8-4zyJw:1672927524798&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiSzObWzLD8AhWjSfEDHWUoDiYQ_AUoAXoECAMQAw&biw=1059&bih=919&dpr=1#imgrc=s_9DjRe3FgTwwM)
+![Kodluyoruz](30476529.png)
